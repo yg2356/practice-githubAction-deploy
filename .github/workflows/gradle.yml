@@ -18,6 +18,7 @@ permissions:
   
 env:
   S3_BUCKET_NAME: be-25-yg2356
+  
 
 jobs:
   build:
